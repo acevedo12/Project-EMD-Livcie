@@ -1,0 +1,113 @@
+body {
+  background: rgb(255,255,255);
+  color:#249140;
+  font-size: 20px;
+  font-family: 'Helvetica';
+}
+
+h1 {
+  font-family: 'Pattaya', sans-serif;
+  text-shadow: 1px 1px 2px grey;
+  color:green;
+  font-weight: lighter;
+  font-size: 25px;
+  }
+
+h2 {
+  font-family: Helvetica;
+  color:#389482;
+  font-weight: bold;
+  font-size: 20px;
+   }
+
+a {
+  color:#389482;
+}
+
+a:hover {
+  text-decoration: none;
+  color:black;
+		}
+
+p {
+	font-size: 18px;
+}
+
+.card-img-top {
+	width: 100px;
+	height: 100px;
+	margin-right: auto;
+	margin-left: auto;
+	}
+
+.card-text {
+	height: 100px;
+}
+	
+	.header{
+	text-align: center;  
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-color: white;
+  	background-size: 10%;
+	padding: 10px;
+  	color: white;
+  	}
+
+	.feature{
+  color: #389482;
+  font-size: 20px;
+  background-size: 60%;
+	}
+
+	.footer{
+  text-align: center;
+  padding: 20px;
+  background: rgb(0, 0, 0);
+  color: #C3E8BD;
+	}
+
+  	.fa-address-book{
+  	font-size: 40px;
+  	color: #9DDBAD;
+  	}
+
+  	.fa-facebook-square{
+  		font-size: 40px;
+  		color: #9DDBAD;
+  	}
+
+  	.fa-twitter-square{
+  		font-size: 40px;
+  		color: #9DDBAD;
+  	}
+
+  	.fa-instagram{
+  		font-size: 40px;
+  		color: #9DDBAD;
+  	}
+
+  	.card-body{
+  		color: #040403;
+  		height: 220px;
+  		text-align: center;
+  	}
+
+  	.card-img-top{
+  		padding: 10px;
+  	}
+
+  	.breadcrumb{
+  		background: #A0C9A2;
+  		padding: 10px;
+  	}
+
+  	.carousel-inner{
+  		position: center;
+  	}
+
+  	#carouselExampleIndicators { width: 50%;}
+
+  	.btn-outline-success{
+  		float: right;
+  	}
